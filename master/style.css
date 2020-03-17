@@ -1,0 +1,33 @@
+/*!
+Theme Name: Itcompany
+Theme URI: https://www.templatemonster.com/vendors/zemez
+Author: Zemez
+Author URI: https://zemez.io/
+Description: Itcompany theme.
+Template: kava
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: itcompany
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+DocumentationID: itcompany
+Template Id: prod-25518
+*/
+
+#toTop {
+	cursor: pointer;
+}
+
+
+.foot_links{
+	color:#ffff;
+}
+
+.foot_links:hover{
+	color:#00ded1;
+}
+
+.serv_links:hover{
+	transition:300ms all ease;
+	color:#00A0D1;
+}
